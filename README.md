@@ -125,6 +125,12 @@ The system follows a simple control architecture:
 5. The ESP32-C3 processes the commands and controls the L298N.
 6. The L298N drives the motors according to the requested direction and speed.
 
+## Photos
+<p align="center">
+  <img src="images/side.jpg" width="32%">
+  <img src="images/top.jpg" width="32%">
+</p>
+
 ## Safety and Power Notes
 
 - Use a properly regulated power supply suitable for the ESP32-C3.
